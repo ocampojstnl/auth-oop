@@ -1,0 +1,23 @@
+#section-1 {
+    background-color: #252929;
+    padding: 10px 0;
+}
+
+#section-1 .row nav ul {
+    margin: 0 auto;
+}
+
+#section-1 .row nav ul li{
+    margin: 0 12px;
+}
+
+#section-1 .row nav ul li a{
+    color : #fff;
+    font-size: 18px;
+}
+
+#section-footer {
+    background-color: #252929;
+    padding: 10px 0;
+    height: 150px;
+}
